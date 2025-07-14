@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-#include "./src/game.h"
-#include "./src/pvp.h"
-#include "./src/pvr.h"
+#include "./src/game.hpp"
+#include "./src/pvp.hpp"
+#include "./src/pvr.hpp"
 
 extern char robotw, youw;
 extern char board[9];
